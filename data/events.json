@@ -1,4 +1,4 @@
-{  
+{
       "events": [
     {
       "id": 1,
@@ -2098,7 +2098,7 @@
       "address": "메가존 강남 오피스",
       "tags": "pivotal",
       "pay_amount": "0"
-    }, 
+    },
     {
       "id": 232,
       "title": "Graph Database Meetup_3rd GDB Use case #2. 텍스트 마이닝/감성분석",
@@ -2218,7 +2218,7 @@
       "address": "한국마이크로소프트(광화문 더케이트윈타워 A동 11층)",
       "tags": "community, meltingcon",
       "pay_amount": "0"
-    }, 
+    },
     {
       "id": 244,
       "title": "Google I/O Extended 2018 Seoul",
@@ -2228,9 +2228,9 @@
       "address": "세종대학교 광개토관 컨벤션홀 (B2)",
       "tags": "google, ",
       "pay_amount": "5,000"
-    }, 
+    },
     {
-      "id": 245, 
+      "id": 245,
       "title": "AWSKRUG #enterprise 소모임",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/249798209/",
       "start": "2018-05-14 18:30:00",
@@ -2240,7 +2240,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 246, 
+      "id": 246,
       "title": "Clova Dev Days",
       "url": "https://developers.naver.com/notice/article/10000000000030661363",
       "start": "2018-06-01 15:00:00",
@@ -2250,7 +2250,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 247, 
+      "id": 247,
       "title": "5월 파이썬 격월 세미나 ‘나의 파이썬 레시피’",
       "url": "https://festa.io/events/33",
       "start": "2018-05-26 14:00:00",
@@ -2260,7 +2260,7 @@
       "pay_amount": "10,000"
     },
     {
-      "id": 248, 
+      "id": 248,
       "title": "GDG Campus Korea 6월 Meetup: 디자이너와 개발자, 그 둘의 소통",
       "url": "https://festa.io/events/34",
       "start": "2018-06-03 14:30:00",
@@ -2268,9 +2268,9 @@
       "address": "마루 180 지하 1층 이벤트홀",
       "tags": "google, gdg, designer, developer",
       "pay_amount": "10,000"
-    }, 
+    },
     {
-      "id": 250, 
+      "id": 250,
       "title": "워드프레스 15주년 기념 홈커밍 데이",
       "url": "https://onoffmix.com/event/138620",
       "start": "2018-05-27 14:00:00",
@@ -2280,7 +2280,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 251, 
+      "id": 251,
       "title": "Azure Discovery Day - Azure 기초부터 활용까지 One day 클래스",
       "url": "https://onoffmix.com/event/137641",
       "start": "2018-05-31 09:30:00",
@@ -2290,7 +2290,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 252, 
+      "id": 252,
       "title": "[카프카, 데이터 플랫폼의 최강자] 저자 직강 세미나",
       "url": "https://onoffmix.com/event/137491",
       "start": "2018-05-26 14:00:00",
@@ -2300,7 +2300,7 @@
       "pay_amount": "10,000"
     },
     {
-      "id": 253, 
+      "id": 253,
       "title": "개발자를 위한 공감 세미나: 16번째 이야기",
       "url": "http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S3029831564",
       "start": "2018-06-09 10:30:00",
@@ -2310,7 +2310,7 @@
       "pay_amount": "22,000"
     },
     {
-      "id": 254, 
+      "id": 254,
       "title": "Google I/O Extended @Suwon",
       "url": "https://festa.io/events/37",
       "start": "2018-06-19 18:00:00",
@@ -2320,7 +2320,7 @@
       "pay_amount": "4,000"
     },
     {
-      "id": 255, 
+      "id": 255,
       "title": "Ubuntu Fest in Daejeon",
       "url": "https://festa.io/events/36",
       "start": "2018-06-23 13:00:00",
@@ -2330,7 +2330,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 256, 
+      "id": 256,
       "title": "Saturday Azure Live! 1806",
       "url": "https://festa.io/events/39",
       "start": "2018-06-30 13:00:00",
@@ -2338,9 +2338,9 @@
       "address": "토즈 강남컨퍼런스",
       "tags": "azure, chatbot",
       "pay_amount": "10,000"
-    },      
+    },
     {
-      "id": 257, 
+      "id": 257,
       "title": "2018 오픈소스 개발자 이야기",
       "url": "https://festa.io/events/38",
       "start": "2018-06-30 13:00:00",
@@ -2348,9 +2348,9 @@
       "address": "한국마이크로소프트(더케이트윈타워 A동 11층)",
       "tags": "opensource",
       "pay_amount": "10,000 ~ 20,000"
-    },    
+    },
     {
-      "id": 258, 
+      "id": 258,
       "title": "Facebook의 API 개발 트렌드와 Graph API 플랫폼 적용 사례 분석",
       "url": "https://innovationlab180623seminar.splashthat.com/",
       "start": "2018-06-23 14:00:00",
@@ -2360,7 +2360,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 259, 
+      "id": 259,
       "title": "OpenInfra Days Korea 2018",
       "url": "https://event.openinfradays.kr/2018/about/",
       "start": "2018-06-28 09:00:00",
@@ -2370,7 +2370,7 @@
       "pay_amount": "15,000 ~ 20,000"
     },
     {
-      "id": 260, 
+      "id": 260,
       "title": "OpenInfra Days Korea 2018",
       "url": "https://event.openinfradays.kr/2018/about/",
       "start": "2018-06-29 09:00:00",
@@ -2380,7 +2380,7 @@
       "pay_amount": "15,000 ~ 20,000"
     },
     {
-      "id": 261, 
+      "id": 261,
       "title": "OpenGL 한번 맛보기 프로젝트",
       "url": "https://festa.io/events/42",
       "start": "2018-07-03 19:00:00",
@@ -2390,7 +2390,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 262, 
+      "id": 262,
       "title": "다양한 DevOps ToolChain의 활용방법",
       "url": "https://tacademy.sktechx.com/front/tacademy/courseinfo/campus.action",
       "start": "2018-06-27 13:00:00",
@@ -2400,7 +2400,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 263, 
+      "id": 263,
       "title": "공개SW Grand Challenge",
       "url": "https://onoffmix.com/event/141575",
       "start": "2018-07-06 14:00:00",
@@ -2410,7 +2410,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 264, 
+      "id": 264,
       "title": "AWSKRUG #Enterprise Meetup (잠실) - 네번째 이야기 (7월 16일)",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/251942718/",
       "start": "2018-07-16 18:30:00",
@@ -2418,9 +2418,9 @@
       "address": "SDS 잠실타워 동관 지하2층 다목적홀",
       "tags": "aws",
       "pay_amount": "0"
-    }, 
+    },
     {
-      "id": 265, 
+      "id": 265,
       "title": "AWSKRUG #architecture 소모임 - 11번째 모임 (6월 28일)",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/251282069/",
       "start": "2018-06-29 18:30:00",
@@ -2430,7 +2430,7 @@
       "pay_amount": "5,000"
     },
     {
-      "id": 266, 
+      "id": 266,
       "title": "AWSKRUG Hands-on Lab 2018 - Serverless #1 (6월 30일)",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/251326459/",
       "start": "2018-06-30 13:00:00",
@@ -2440,7 +2440,7 @@
       "pay_amount": "10,000"
     },
     {
-      "id": 267, 
+      "id": 267,
       "title": "AWSKRUG 데이터사이언스모임 (7월5일)",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/251853850/",
       "start": "2018-07-05 19:00:00",
@@ -2450,7 +2450,7 @@
       "pay_amount": "5,000"
     },
     {
-      "id": 268, 
+      "id": 268,
       "title": "AWSKRUG Hands-on Lab 2018 - Container #3 (7월 14일)",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/251853850/",
       "start": "2018-07-14 13:00:00",
@@ -2460,7 +2460,7 @@
       "pay_amount": "10,000"
     },
     {
-      "id": 269, 
+      "id": 269,
       "title": "AWSKRUG #Beginner 모임 (6월 25일)",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/251394347/",
       "start": "2018-06-25 19:00:00",
@@ -2470,7 +2470,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 270, 
+      "id": 270,
       "title": "제5회 공개SW 거버넌스 아카데미",
       "url": "https://festa.io/events/44",
       "start": "2018-06-27 13:30:00",
@@ -2480,7 +2480,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 271, 
+      "id": 271,
       "title": "제5회 마스터즈 오픈 세미나",
       "url": "https://festa.io/events/43",
       "start": "2018-06-27 19:30:00",
@@ -2490,7 +2490,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 272, 
+      "id": 272,
       "title": "DevOps Talk 7월 - MyMusicTaste와 함께 하는 개발 이야기",
       "url": "http://meetup.devopskorea.com/201807/",
       "start": "2018-07-14 13:00:00",
@@ -2500,7 +2500,7 @@
       "pay_amount": "20,000"
     },
     {
-      "id": 273, 
+      "id": 273,
       "title": "하시코프 한국 사용자 모임 밋업",
       "url": "https://festa.io/events/45",
       "start": "2018-07-28 13:00:00",
@@ -2510,7 +2510,7 @@
       "pay_amount": "10,000 ~ 20,000"
     },
     {
-      "id": 274, 
+      "id": 274,
       "title": "Seoul.js Lightning Talk",
       "url": "https://festa.io/events/49",
       "start": "2018-07-27 19:00:00",
@@ -2520,7 +2520,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 275, 
+      "id": 275,
       "title": "OpenStack 8th Birthday Celebration Party with K8s!",
       "url": "https://festa.io/events/50",
       "start": "2018-07-27 19:00:00",
@@ -2530,7 +2530,7 @@
       "pay_amount": "30,000"
     },
     {
-      "id": 276, 
+      "id": 276,
       "title": "Freestyle Developer Party @Suwon",
       "url": "https://festa.io/events/48",
       "start": "2018-07-16 19:00:00",
@@ -2540,7 +2540,7 @@
       "pay_amount": "9,900 ~ 19,900"
     },
     {
-      "id": 277, 
+      "id": 277,
       "title": "AWSKRUG 컨테이너 소모임",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/252234960/",
       "start": "2018-07-19 19:00:00",
@@ -2550,7 +2550,7 @@
       "pay_amount": "5,000"
     },
     {
-      "id": 278, 
+      "id": 278,
       "title": "리액트네이티브서울 - React Native UI 컴포넌트 종류별로 알아보기 & 화면 만들기 실습",
       "url": "https://www.meetup.com/ko-KR/react-native-seoul/events/pptfxpyxkbhc/",
       "start": "2018-07-25 19:00:00",
@@ -2560,7 +2560,7 @@
       "pay_amount": "6,000"
     },
     {
-      "id": 279, 
+      "id": 279,
       "title": "GDG WebTech Meetup 2018.07",
       "url": "http://webtech.gdg.kr/180724_meetup/",
       "start": "2018-07-24 19:30:00",
@@ -2570,7 +2570,7 @@
       "pay_amount": "10,000"
     },
     {
-      "id": 280, 
+      "id": 280,
       "title": "우분투 기초 사용법 워크샵",
       "url": "https://festa.io/events/61",
       "start": "2018-08-25 13:00:00",
@@ -2578,9 +2578,9 @@
       "address": "대전광역시 유성구 궁동 479-11, 더포럼",
       "tags": "ubuntu",
       "pay_amount": "5,000"
-    }, 
+    },
     {
-      "id": 281, 
+      "id": 281,
       "title": "Google I/O Extended 2018 Busan",
       "url": "https://festa.io/events/59",
       "start": "2018-08-11 12:30:00",
@@ -2590,7 +2590,7 @@
       "pay_amount": "5,000"
     },
     {
-      "id": 282, 
+      "id": 282,
       "title": "Pycon2018 스트린트",
       "url": "https://www.pycon.kr/2018/program/tutorials/",
       "start": "2018-08-15 10:00:00",
@@ -2600,7 +2600,7 @@
       "pay_amount": "-"
     },
     {
-      "id": 283, 
+      "id": 283,
       "title": "Pycon2018 스트린트",
       "url": "https://www.pycon.kr/2018/program/tutorials/",
       "start": "2018-08-17 10:00:00",
@@ -2610,7 +2610,7 @@
       "pay_amount": "-"
     },
     {
-      "id": 284, 
+      "id": 284,
       "title": "Pycon2018 튜토리얼",
       "url": "https://www.pycon.kr/2018/program/tutorials/",
       "start": "2018-08-17 10:00:00",
@@ -2620,7 +2620,7 @@
       "pay_amount": "-"
     },
     {
-      "id": 285, 
+      "id": 285,
       "title": "Pycon2018 컨퍼런스",
       "url": "https://www.pycon.kr/2018/program/list/",
       "start": "2018-08-18 09:30:00",
@@ -2630,7 +2630,7 @@
       "pay_amount": "-"
     },
     {
-      "id": 286, 
+      "id": 286,
       "title": "Pycon2018 컨퍼런스",
       "url": "https://www.pycon.kr/2018/program/list/",
       "start": "2018-08-19 10:00:00",
@@ -2640,7 +2640,7 @@
       "pay_amount": "-"
     },
     {
-      "id": 287, 
+      "id": 287,
       "title": "[OKKY 세미나] 오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기",
       "url": "https://okky.kr/article/486676",
       "start": "2018-08-09 19:00:00",
@@ -2650,7 +2650,7 @@
       "pay_amount": "30,000"
     },
     {
-      "id": 288, 
+      "id": 288,
       "title": "AWSKRUG #architecture 소모임 - 12번째 모임",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/252249556/",
       "start": "2018-07-26 19:00:00",
@@ -2660,7 +2660,7 @@
       "pay_amount": "5,000"
     },
     {
-      "id": 289, 
+      "id": 289,
       "title": "AWSKRUG CLI모임",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/252699532/",
       "start": "2018-07-31 19:00:00",
@@ -2670,7 +2670,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 290, 
+      "id": 290,
       "title": "Vuetiful Korea 다섯번째 모임",
       "url": "https://meetgo.kr/#/userEventDetail/vuetiful05",
       "start": "2018-08-08 19:30:00",
@@ -2678,9 +2678,9 @@
       "address": "서울특별시 강남구 대치2동 영동대로 417 구글 캠퍼스 서울",
       "tags": "Vue.js, Nuxt.js, Spring Boot, Thymeleaf, RxJS, Firebase, socket.io",
       "pay_amount": "11,000 ~ 33,000"
-    }, 
+    },
     {
-      "id": 291, 
+      "id": 291,
       "title": "ANDROID & CHAIN",
       "url": "https://festa.io/events/62",
       "start": "2018-08-10 19:30:00",
@@ -2688,9 +2688,9 @@
       "address": " 판교 카카오페이 오피스",
       "tags": "android, blockchain, dapp",
       "pay_amount": "10,000"
-    }, 
+    },
     {
-      "id": 292, 
+      "id": 292,
       "title": "8월 오픈랩세미나",
       "url": "https://festa.io/events/65",
       "start": "2018-08-13 19:00:00",
@@ -2700,7 +2700,7 @@
       "pay_amount": "0"
     },
     {
-      "id": 293, 
+      "id": 293,
       "title": "AWSKRUG Hands-on Lab 2018 - Data Analysis #1",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/253585367/",
       "start": "2018-08-25 13:00:00",
@@ -2710,7 +2710,7 @@
       "pay_amount": "10,000"
     },
     {
-      "id": 294, 
+      "id": 294,
       "title": "리액트네이티브서울 - Social Login 라이브러리들을 활용한 Native Module 연동 시키기 실습",
       "url": "https://www.meetup.com/ko-KR/react-native-seoul/events/252138039/",
       "start": "2018-08-08 19:00:00",
@@ -2720,7 +2720,7 @@
       "pay_amount": "5,000"
     },
     {
-      "id": 295, 
+      "id": 295,
       "title": "AWSKRUG Hands-on Lab 2018 - Serverless #3",
       "url": "https://www.meetup.com/ko-KR/awskrug/events/252838800/",
       "start": "2018-08-11 13:00:00",
@@ -2730,7 +2730,7 @@
       "pay_amount": "10,000"
     },
     {
-      "id": 296, 
+      "id": 296,
       "title": "PHP website programming language (free tutoring!)",
       "url": "https://www.meetup.com/ko-KR/Learn-Teach-Code-Seoul/events/253156633/",
       "start": "2018-08-08 14:00:00",
@@ -2738,9 +2738,9 @@
       "address": "서울특별시 마포구 백범로31길 21 서울창업허9층 아이디어룸2",
       "tags": "php",
       "pay_amount": "0"
-    },    
+    },
     {
-      "id": 297, 
+      "id": 297,
       "title": "Grow With Developer Community ",
       "url": "https://innovationlab180825meetup.splashthat.com/",
       "start": "2018-08-25 14:00:00",
@@ -2748,9 +2748,9 @@
       "address": "페이스북 이노베이션 랩",
       "tags": "developer",
       "pay_amount": "0"
-    }, 
+    },
     {
-      "id": 298, 
+      "id": 298,
       "title": "Chrome Dev Meetup",
       "url": "http://webtech.gdg.kr/180820_chrome_dev_meetup/",
       "start": "2018-08-20 20:00:00",
@@ -2760,894 +2760,894 @@
       "pay_amount": "10,000"
     },
     {
-    	"id": 299,
-    	"title": "우분투한국커뮤니티 9월 서울지역 세미나",
-    	"url": "http://event.ubuntu-kr.org/2018/07/31/sept-seoul-seminar.html",
-    	"start": "2018-09-15 13:00:00",
-    	"end": "2018-09-15 17:30:00",
-    	"address": "KossLab 대회의실(서울특별시 강남구 테헤란로 311 아남타워빌딩 7층)",
-    	"tags": "ubuntu, debian, debconf, input-method, hanjp, intern, gpg, keysigning",
-    	"pay_amount": "0"
+      "id": 299,
+      "title": "우분투한국커뮤니티 9월 서울지역 세미나",
+      "url": "http://event.ubuntu-kr.org/2018/07/31/sept-seoul-seminar.html",
+      "start": "2018-09-15 13:00:00",
+      "end": "2018-09-15 17:30:00",
+      "address": "KossLab 대회의실(서울특별시 강남구 테헤란로 311 아남타워빌딩 7층)",
+      "tags": "ubuntu, debian, debconf, input-method, hanjp, intern, gpg, keysigning",
+      "pay_amount": "0"
     },
     {
-    	"id": 300,
-    	"title": "Popit 멘토링 데이",
-    	"url": "https://festa.io/events/70",
-    	"start": "2018-08-31 19:00:00",
-    	"end": "2018-08-31 21:30:00",
-    	"address": "강남역 4번출구 패스트캠퍼스 11층 강의실",
-    	"tags": "developer",
-    	"pay_amount": "10,000"
-    },   
-    {
-    	"id": 301,
-    	"title": "우분투 기초 사용법 워크샵",
-    	"url": "https://festa.io/events/61",
-    	"start": "2018-09-22 13:00:00",
-    	"end": "2018-09-22 16:30:00",
-    	"address": "대전광역시 중구 대흥동 중앙로 124, 대흥노마드",
-    	"tags": "ubuntu",
-    	"pay_amount": "5,000"
+      "id": 300,
+      "title": "Popit 멘토링 데이",
+      "url": "https://festa.io/events/70",
+      "start": "2018-08-31 19:00:00",
+      "end": "2018-08-31 21:30:00",
+      "address": "강남역 4번출구 패스트캠퍼스 11층 강의실",
+      "tags": "developer",
+      "pay_amount": "10,000"
     },
     {
-    	"id": 302,
-    	"title": "Saturday Azure live! 1808",
-    	"url": "https://festa.io/events/71",
-    	"start": "2018-08-25 13:00:00",
-    	"end": "2018-08-25 16:00:00",
-    	"address": "대한민국 서울특별시 마포구 노고산동 106-5",
-    	"tags": "azure",
-    	"pay_amount": "10,000"
+      "id": 301,
+      "title": "우분투 기초 사용법 워크샵",
+      "url": "https://festa.io/events/61",
+      "start": "2018-09-22 13:00:00",
+      "end": "2018-09-22 16:30:00",
+      "address": "대전광역시 중구 대흥동 중앙로 124, 대흥노마드",
+      "tags": "ubuntu",
+      "pay_amount": "5,000"
     },
     {
-    	"id": 303,
-    	"title": "Planet Hackathon 2018 by GDG x 9XD",
-    	"url": "https://goree.io/events/3",
-    	"start": "2018-09-01 11:00:00",
-    	"end": "2018-09-01 19:00:00",
-    	"address": "삼성역 캠퍼스 서울 by Google",
-    	"tags": "gdg, hackathon",
-    	"pay_amount": "20,000"
+      "id": 302,
+      "title": "Saturday Azure live! 1808",
+      "url": "https://festa.io/events/71",
+      "start": "2018-08-25 13:00:00",
+      "end": "2018-08-25 16:00:00",
+      "address": "대한민국 서울특별시 마포구 노고산동 106-5",
+      "tags": "azure",
+      "pay_amount": "10,000"
     },
     {
-    	"id": 304,
-    	"title": "Planet Hackathon 2018 by GDG x 9XD",
-    	"url": "https://goree.io/events/3",
-    	"start": "2018-09-02 08:00:00",
-    	"end": "2018-09-02 12:00:00",
-    	"address": "삼성역 캠퍼스 서울 by Google",
-    	"tags": "gdg, hackathon",
-    	"pay_amount": "20,000"
+      "id": 303,
+      "title": "Planet Hackathon 2018 by GDG x 9XD",
+      "url": "https://goree.io/events/3",
+      "start": "2018-09-01 11:00:00",
+      "end": "2018-09-01 19:00:00",
+      "address": "삼성역 캠퍼스 서울 by Google",
+      "tags": "gdg, hackathon",
+      "pay_amount": "20,000"
     },
     {
-    	"id": 305,
-    	"title": "이론부터 배포까지, 단계별로 익히는 이더리움 DApp 개발",
-    	"url": "https://tacademy.sktechx.com/front/tacademy/courseinfo/campus.action#",
-    	"start": "2018-09-06 13:00:00",
-    	"end": "2018-09-06 19:00:00",
-    	"address": "서울대연구공원단지내 SK연구동",
-    	"tags": "blockchain, dapp, ethereum",
-    	"pay_amount": "0"
+      "id": 304,
+      "title": "Planet Hackathon 2018 by GDG x 9XD",
+      "url": "https://goree.io/events/3",
+      "start": "2018-09-02 08:00:00",
+      "end": "2018-09-02 12:00:00",
+      "address": "삼성역 캠퍼스 서울 by Google",
+      "tags": "gdg, hackathon",
+      "pay_amount": "20,000"
     },
     {
-    	"id": 306,
-    	"title": "Oneday Workshop: 코딩 입문부터 나만의 웹 페이지 제작까지",
-    	"url": "https://innovationlab180829workshop.splashthat.com/",
-    	"start": "2018-08-29 14:00:00",
-    	"end": "2018-08-29 18:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "html, web",
-    	"pay_amount": "0"
+      "id": 305,
+      "title": "이론부터 배포까지, 단계별로 익히는 이더리움 DApp 개발",
+      "url": "https://tacademy.sktechx.com/front/tacademy/courseinfo/campus.action#",
+      "start": "2018-09-06 13:00:00",
+      "end": "2018-09-06 19:00:00",
+      "address": "서울대연구공원단지내 SK연구동",
+      "tags": "blockchain, dapp, ethereum",
+      "pay_amount": "0"
     },
     {
-    	"id": 307,
-    	"title": "Class :React Native를 통한 네이티브 앱 개발 - 1회",
-    	"url": "https://innovationlab180917class.splashthat.com/",
-    	"start": "2018-09-17 15:00:00",
-    	"end": "2018-09-17 17:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "react, js, react native",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 308,
-    	"title": "Class :React Native를 통한 네이티브 앱 개발 - 2회",
-    	"url": "https://innovationlab180917class.splashthat.com/",
-    	"start": "2018-09-27 15:00:00",
-    	"end": "2018-09-27 17:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "react, js, react native",
-    	"pay_amount": "0"
+      "id": 306,
+      "title": "Oneday Workshop: 코딩 입문부터 나만의 웹 페이지 제작까지",
+      "url": "https://innovationlab180829workshop.splashthat.com/",
+      "start": "2018-08-29 14:00:00",
+      "end": "2018-08-29 18:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "html, web",
+      "pay_amount": "0"
     },
     {
-    	"id": 309,
-    	"title": "Class :React Native를 통한 네이티브 앱 개발 - 3회",
-    	"url": "https://innovationlab180917class.splashthat.com/",
-    	"start": "2018-10-01 15:00:00",
-    	"end": "2018-10-01 17:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "react, js, react native",
-    	"pay_amount": "0"
+      "id": 307,
+      "title": "Class :React Native를 통한 네이티브 앱 개발 - 1회",
+      "url": "https://innovationlab180917class.splashthat.com/",
+      "start": "2018-09-17 15:00:00",
+      "end": "2018-09-17 17:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "react, js, react native",
+      "pay_amount": "0"
     },
     {
-    	"id": 310,
-    	"title": "Class :React Native를 통한 네이티브 앱 개발 - 4회",
-    	"url": "https://innovationlab180917class.splashthat.com/",
-    	"start": "2018-10-08 15:00:00",
-    	"end": "2018-10-08 17:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "react, js, react native",
-    	"pay_amount": "0"
+      "id": 308,
+      "title": "Class :React Native를 통한 네이티브 앱 개발 - 2회",
+      "url": "https://innovationlab180917class.splashthat.com/",
+      "start": "2018-09-27 15:00:00",
+      "end": "2018-09-27 17:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "react, js, react native",
+      "pay_amount": "0"
     },
     {
-    	"id": 311,
-    	"title": "Class :React Native를 통한 네이티브 앱 개발 - 5회",
-    	"url": "https://innovationlab180917class.splashthat.com/",
-    	"start": "2018-10-15 15:00:00",
-    	"end": "2018-10-15 17:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "react, js, react native",
-    	"pay_amount": "0"
+      "id": 309,
+      "title": "Class :React Native를 통한 네이티브 앱 개발 - 3회",
+      "url": "https://innovationlab180917class.splashthat.com/",
+      "start": "2018-10-01 15:00:00",
+      "end": "2018-10-01 17:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "react, js, react native",
+      "pay_amount": "0"
     },
     {
-    	"id": 312,
-    	"title": "Class :React Native를 통한 네이티브 앱 개발 - 6회",
-    	"url": "https://innovationlab180917class.splashthat.com/",
-    	"start": "2018-10-22 15:00:00",
-    	"end": "2018-10-22 17:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "react, js, react native",
-    	"pay_amount": "0"
+      "id": 310,
+      "title": "Class :React Native를 통한 네이티브 앱 개발 - 4회",
+      "url": "https://innovationlab180917class.splashthat.com/",
+      "start": "2018-10-08 15:00:00",
+      "end": "2018-10-08 17:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "react, js, react native",
+      "pay_amount": "0"
     },
     {
-    	"id": 313,
-    	"title": "Class :React Native를 통한 네이티브 앱 개발 - 7회",
-    	"url": "https://innovationlab180917class.splashthat.com/",
-    	"start": "2018-10-29 15:00:00",
-    	"end": "2018-10-29 17:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "react, js, react native",
-    	"pay_amount": "0"
+      "id": 311,
+      "title": "Class :React Native를 통한 네이티브 앱 개발 - 5회",
+      "url": "https://innovationlab180917class.splashthat.com/",
+      "start": "2018-10-15 15:00:00",
+      "end": "2018-10-15 17:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "react, js, react native",
+      "pay_amount": "0"
     },
     {
-    	"id": 314,
-    	"title": "Class :React Native를 통한 네이티브 앱 개발 - 8회",
-    	"url": "https://innovationlab180917class.splashthat.com/",
-    	"start": "2018-11-05 15:00:00",
-    	"end": "2018-11-05 17:00:00",
-    	"address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
-    	"tags": "react, js, react native",
-    	"pay_amount": "0"
+      "id": 312,
+      "title": "Class :React Native를 통한 네이티브 앱 개발 - 6회",
+      "url": "https://innovationlab180917class.splashthat.com/",
+      "start": "2018-10-22 15:00:00",
+      "end": "2018-10-22 17:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "react, js, react native",
+      "pay_amount": "0"
     },
     {
-    	"id": 315,
-    	"title": "아두이노 IoT 컨퍼런스",
-    	"url": "https://onoffmix.com/event/149959",
-    	"start": "2018-09-12 14:00:00",
-    	"end": "2018-09-12 18:00:00",
-    	"address": "[드림플러스]서울특별시 서초구 강남대로 311 한화생명보험빌딩 한화 드림플러스 강남 이벤트홀(B1)",
-    	"tags": "iot, android",
-    	"pay_amount": "50,000"
+      "id": 313,
+      "title": "Class :React Native를 통한 네이티브 앱 개발 - 7회",
+      "url": "https://innovationlab180917class.splashthat.com/",
+      "start": "2018-10-29 15:00:00",
+      "end": "2018-10-29 17:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "react, js, react native",
+      "pay_amount": "0"
     },
     {
-    	"id": 316,
-    	"title": "내가 짠 코드 얼마나 안전한가요? #무료실습 #개발자 #보안취약점",
-    	"url": "https://onoffmix.com/event/149459",
-    	"start": "2018-09-07 14:00:00",
-    	"end": "2018-09-07 18:00:00",
-    	"address": "[MARU180 by 아산나눔재단]서울특별시 강남구 역삼로 180 이벤트홀",
-    	"tags": "security",
-    	"pay_amount": "0"
+      "id": 314,
+      "title": "Class :React Native를 통한 네이티브 앱 개발 - 8회",
+      "url": "https://innovationlab180917class.splashthat.com/",
+      "start": "2018-11-05 15:00:00",
+      "end": "2018-11-05 17:00:00",
+      "address": "경기 성남시 수정구 대왕판교로 815 판교 제2테크노벨리 기업지원허브 ICT-문화융합센터 2층",
+      "tags": "react, js, react native",
+      "pay_amount": "0"
     },
     {
-    	"id": 317,
-    	"title": "Rockplace OpenDay",
-    	"url": "http://www.mktg.co.kr/eDM/20180906_Rockplace/rockplace_eDM.html",
-    	"start": "2018-09-06 13:40:00",
-    	"end": "2018-09-06 17:20:00",
-    	"address": "마이크로소프트본사11층",
-    	"tags": "ansible, sql, azure",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 318,
-    	"title": "지금은 Azure 시대! - 도전! Dr. Azure 1일차",
-    	"url": "https://onoffmix.com/event/150067",
-    	"start": "2018-09-13 10:00:00",
-    	"end": "2018-09-13 18:00:00",
-    	"address": "[코엑스]서울특별시 강남구 영동대로 513 코엑스 4층 무역아카데미 10호",
-    	"tags": "azure",
-    	"pay_amount": "0"
+      "id": 315,
+      "title": "아두이노 IoT 컨퍼런스",
+      "url": "https://onoffmix.com/event/149959",
+      "start": "2018-09-12 14:00:00",
+      "end": "2018-09-12 18:00:00",
+      "address": "[드림플러스]서울특별시 서초구 강남대로 311 한화생명보험빌딩 한화 드림플러스 강남 이벤트홀(B1)",
+      "tags": "iot, android",
+      "pay_amount": "50,000"
     },
     {
-    	"id": 318,
-    	"title": "지금은 Azure 시대! - 도전! Dr. Azure 2일차",
-    	"url": "https://onoffmix.com/event/150067",
-    	"start": "2018-09-14 10:00:00",
-    	"end": "2018-09-14 18:00:00",
-    	"address": "[코엑스]서울특별시 강남구 영동대로 513 코엑스 4층 무역아카데미 10호",
-    	"tags": "azure",
-    	"pay_amount": "0"
+      "id": 316,
+      "title": "내가 짠 코드 얼마나 안전한가요? #무료실습 #개발자 #보안취약점",
+      "url": "https://onoffmix.com/event/149459",
+      "start": "2018-09-07 14:00:00",
+      "end": "2018-09-07 18:00:00",
+      "address": "[MARU180 by 아산나눔재단]서울특별시 강남구 역삼로 180 이벤트홀",
+      "tags": "security",
+      "pay_amount": "0"
     },
     {
-    	"id": 319,
-    	"title": "Chrome Dev Meetup #2",
-    	"url": "https://festa.io/events/81",
-    	"start": "2018-09-17 20:00:00",
-    	"end": "2018-09-17 22:30:00",
-    	"address": "대한민국 서울특별시 강남구 역삼1동 역삼로 180",
-    	"tags": "pwa, gdg",
-    	"pay_amount": "10,000"
+      "id": 317,
+      "title": "Rockplace OpenDay",
+      "url": "http://www.mktg.co.kr/eDM/20180906_Rockplace/rockplace_eDM.html",
+      "start": "2018-09-06 13:40:00",
+      "end": "2018-09-06 17:20:00",
+      "address": "마이크로소프트본사11층",
+      "tags": "ansible, sql, azure",
+      "pay_amount": "0"
     },
     {
-    	"id": 320,
-    	"title": "쿠버네티스 차근차근 다지기! -기초부터 중급까지",
-    	"url": "https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/events/254343211/",
-    	"start": "2018-09-17 13:00:00",
-    	"end": "2018-09-17 17:30:00",
-    	"address": "마루180 지하1층 이벤트홀",
-    	"tags": "k8s, docker",
-    	"pay_amount": "0"
+      "id": 318,
+      "title": "지금은 Azure 시대! - 도전! Dr. Azure 1일차",
+      "url": "https://onoffmix.com/event/150067",
+      "start": "2018-09-13 10:00:00",
+      "end": "2018-09-13 18:00:00",
+      "address": "[코엑스]서울특별시 강남구 영동대로 513 코엑스 4층 무역아카데미 10호",
+      "tags": "azure",
+      "pay_amount": "0"
     },
     {
-    	"id": 321,
-    	"title": "Azure X Kaggle : 미국 택시요금 싸게 내는 법",
-    	"url": "https://festa.io/events/80",
-    	"start": "2018-09-15 13:00:00",
-    	"end": "2018-09-15 18:00:00",
-    	"address": "강남 토즈타워점 (강남역 3번 출구)",
-    	"tags": "azure, R, kaggle",
-    	"pay_amount": "10,000"
-    }, 
-    {
-    	"id": 322,
-    	"title": "AWSKRUG 구로디지털단지 모임 - 20회차",
-    	"url": "https://www.meetup.com/ko-KR/awskrug/events/254435002/",
-    	"start": "2018-09-18 19:30:00",
-    	"end": "2018-09-18 21:00:00",
-    	"address": "서울 구로구 디지털로26길 72 서울창업지원센터(서울IoT센터) 4층 중회의실",
-    	"tags": "ansible, aws",
-    	"pay_amount": "5,000"
-    }, 
-    {
-    	"id": 323,
-    	"title": "AWSKRUG 주니어모임 (9월11일)",
-    	"url": "https://www.meetup.com/ko-KR/awskrug/events/253843349/",
-    	"start": "2018-09-11 19:00:00",
-    	"end": "2018-09-11 21:00:00",
-    	"address": "마이뮤직테이스트 3층",
-    	"tags": "aws",
-    	"pay_amount": "5,000"
-    }, 
-    {
-    	"id": 324,
-    	"title": "AWSKRUG #enterprise 소모임 - 6번째 모임 (9월 10일)",
-    	"url": "https://www.meetup.com/ko-KR/awskrug/events/253939781/",
-    	"start": "2018-09-10 18:30:00",
-    	"end": "2018-09-10 20:30:00",
-    	"address": "삼성 SDS East Campus 다목적홀",
-    	"tags": "aws, devops, msa",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 325,
-    	"title": "9월 Clova Dev Days 세미나",
-    	"url": "http://bit.ly/clova-dev-days-0918",
-    	"start": "2018-09-18 15:00:00",
-    	"end": "2018-09-18 18:00:00",
-    	"address": "D2 Startup Factory 라운지 (강남 메리츠 타워 16층)",
-    	"tags": "naver, clova",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 326,
-    	"title": "스프링부트를 이용한 웹서비스 개발하기",
-    	"url": "https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action#",
-    	"start": "2018-09-20 13:00:00",
-    	"end": "2018-09-20 18:00:00",
-    	"address": "서울대연구공원단지내 sk연구동",
-    	"tags": "java, spring, springboot",
-    	"pay_amount": "0"
+      "id": 318,
+      "title": "지금은 Azure 시대! - 도전! Dr. Azure 2일차",
+      "url": "https://onoffmix.com/event/150067",
+      "start": "2018-09-14 10:00:00",
+      "end": "2018-09-14 18:00:00",
+      "address": "[코엑스]서울특별시 강남구 영동대로 513 코엑스 4층 무역아카데미 10호",
+      "tags": "azure",
+      "pay_amount": "0"
     },
     {
-    	"id": 327,
-    	"title": "How do we make AMP Stories tool (with tyle.io)",
-    	"url": "https://www.meetup.com/ko-KR/GDG-Seoul/events/254344860/?eventId=254344860&isFirstPublish=true",
-    	"start": "2018-09-13 19:30:00",
-    	"end": "2018-09-13 21:30:00",
-    	"address": "메가존 이벤트홀(B1)",
-    	"tags": "amp",
-    	"pay_amount": "5000"
+      "id": 319,
+      "title": "Chrome Dev Meetup #2",
+      "url": "https://festa.io/events/81",
+      "start": "2018-09-17 20:00:00",
+      "end": "2018-09-17 22:30:00",
+      "address": "대한민국 서울특별시 강남구 역삼1동 역삼로 180",
+      "tags": "pwa, gdg",
+      "pay_amount": "10,000"
     },
     {
-    	"id": 328,
-    	"title": "송도 인공지능 스터디 powered by GDG",
-    	"url": "https://www.meetup.com/ko-KR/GDG-SongDo/events/kwbffqyxmbrb/",
-    	"start": "2018-09-11 19:00:00",
-    	"end": "2018-09-11 21:00:00",
-    	"address": "인천대학교 미래관",
-    	"tags": "ai",
-    	"pay_amount": "0"
+      "id": 320,
+      "title": "쿠버네티스 차근차근 다지기! -기초부터 중급까지",
+      "url": "https://www.meetup.com/ko-KR/IBM-developerWorks-Meetup/events/254343211/",
+      "start": "2018-09-17 13:00:00",
+      "end": "2018-09-17 17:30:00",
+      "address": "마루180 지하1층 이벤트홀",
+      "tags": "k8s, docker",
+      "pay_amount": "0"
     },
     {
-    	"id": 329,
-    	"title": "[KISA 핀테크 기술지원센터] 기술 세미나 :: 파이썬을 활용한 금융 데이터 크롤링(심화과정)",
-    	"url": "https://onoffmix.com/event/149743",
-    	"start": "2018-09-13 14:00:00",
-    	"end": "2018-09-13 18:00:00",
-    	"address": "서울특별시 송파구 가락동 78 핀테크 기술지원센터",
-    	"tags": "python",
-    	"pay_amount": "0"
+      "id": 321,
+      "title": "Azure X Kaggle : 미국 택시요금 싸게 내는 법",
+      "url": "https://festa.io/events/80",
+      "start": "2018-09-15 13:00:00",
+      "end": "2018-09-15 18:00:00",
+      "address": "강남 토즈타워점 (강남역 3번 출구)",
+      "tags": "azure, R, kaggle",
+      "pay_amount": "10,000"
+    },
+    {
+      "id": 322,
+      "title": "AWSKRUG 구로디지털단지 모임 - 20회차",
+      "url": "https://www.meetup.com/ko-KR/awskrug/events/254435002/",
+      "start": "2018-09-18 19:30:00",
+      "end": "2018-09-18 21:00:00",
+      "address": "서울 구로구 디지털로26길 72 서울창업지원센터(서울IoT센터) 4층 중회의실",
+      "tags": "ansible, aws",
+      "pay_amount": "5,000"
+    },
+    {
+      "id": 323,
+      "title": "AWSKRUG 주니어모임 (9월11일)",
+      "url": "https://www.meetup.com/ko-KR/awskrug/events/253843349/",
+      "start": "2018-09-11 19:00:00",
+      "end": "2018-09-11 21:00:00",
+      "address": "마이뮤직테이스트 3층",
+      "tags": "aws",
+      "pay_amount": "5,000"
+    },
+    {
+      "id": 324,
+      "title": "AWSKRUG #enterprise 소모임 - 6번째 모임 (9월 10일)",
+      "url": "https://www.meetup.com/ko-KR/awskrug/events/253939781/",
+      "start": "2018-09-10 18:30:00",
+      "end": "2018-09-10 20:30:00",
+      "address": "삼성 SDS East Campus 다목적홀",
+      "tags": "aws, devops, msa",
+      "pay_amount": "0"
+    },
+    {
+      "id": 325,
+      "title": "9월 Clova Dev Days 세미나",
+      "url": "http://bit.ly/clova-dev-days-0918",
+      "start": "2018-09-18 15:00:00",
+      "end": "2018-09-18 18:00:00",
+      "address": "D2 Startup Factory 라운지 (강남 메리츠 타워 16층)",
+      "tags": "naver, clova",
+      "pay_amount": "0"
+    },
+    {
+      "id": 326,
+      "title": "스프링부트를 이용한 웹서비스 개발하기",
+      "url": "https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action#",
+      "start": "2018-09-20 13:00:00",
+      "end": "2018-09-20 18:00:00",
+      "address": "서울대연구공원단지내 sk연구동",
+      "tags": "java, spring, springboot",
+      "pay_amount": "0"
+    },
+    {
+      "id": 327,
+      "title": "How do we make AMP Stories tool (with tyle.io)",
+      "url": "https://www.meetup.com/ko-KR/GDG-Seoul/events/254344860/?eventId=254344860&isFirstPublish=true",
+      "start": "2018-09-13 19:30:00",
+      "end": "2018-09-13 21:30:00",
+      "address": "메가존 이벤트홀(B1)",
+      "tags": "amp",
+      "pay_amount": "5000"
+    },
+    {
+      "id": 328,
+      "title": "송도 인공지능 스터디 powered by GDG",
+      "url": "https://www.meetup.com/ko-KR/GDG-SongDo/events/kwbffqyxmbrb/",
+      "start": "2018-09-11 19:00:00",
+      "end": "2018-09-11 21:00:00",
+      "address": "인천대학교 미래관",
+      "tags": "ai",
+      "pay_amount": "0"
+    },
+    {
+      "id": 329,
+      "title": "[KISA 핀테크 기술지원센터] 기술 세미나 :: 파이썬을 활용한 금융 데이터 크롤링(심화과정)",
+      "url": "https://onoffmix.com/event/149743",
+      "start": "2018-09-13 14:00:00",
+      "end": "2018-09-13 18:00:00",
+      "address": "서울특별시 송파구 가락동 78 핀테크 기술지원센터",
+      "tags": "python",
+      "pay_amount": "0"
     } ,
     {
-    	"id": 330,
-    	"title": "[KISA 핀테크 기술지원센터] 기술 세미나 :: 파이썬을 활용한 금융 데이터 크롤링(심화과정)",
-    	"url": "https://onoffmix.com/event/149743",
-    	"start": "2018-09-12 14:00:00",
-    	"end": "2018-09-12 18:00:00",
-    	"address": "서울특별시 송파구 가락동 78 핀테크 기술지원센터",
-    	"tags": "python",
-    	"pay_amount": "0"
+      "id": 330,
+      "title": "[KISA 핀테크 기술지원센터] 기술 세미나 :: 파이썬을 활용한 금융 데이터 크롤링(심화과정)",
+      "url": "https://onoffmix.com/event/149743",
+      "start": "2018-09-12 14:00:00",
+      "end": "2018-09-12 18:00:00",
+      "address": "서울특별시 송파구 가락동 78 핀테크 기술지원센터",
+      "tags": "python",
+      "pay_amount": "0"
     },
     {
-    	"id": 331,
-    	"title": "[KISA 핀테크 기술지원센터] 기술 세미나 :: 파이썬을 활용한 금융 데이터 크롤링(심화과정)",
-    	"url": "https://onoffmix.com/event/149743",
-    	"start": "2018-09-13 14:00:00",
-    	"end": "2018-09-13 18:00:00",
-    	"address": "서울특별시 송파구 가락동 78 핀테크 기술지원센터",
-    	"tags": "python",
-    	"pay_amount": "0"
+      "id": 331,
+      "title": "[KISA 핀테크 기술지원센터] 기술 세미나 :: 파이썬을 활용한 금융 데이터 크롤링(심화과정)",
+      "url": "https://onoffmix.com/event/149743",
+      "start": "2018-09-13 14:00:00",
+      "end": "2018-09-13 18:00:00",
+      "address": "서울특별시 송파구 가락동 78 핀테크 기술지원센터",
+      "tags": "python",
+      "pay_amount": "0"
     },
     {
-    	"id": 332,
-    	"title": "삼성 청소로봇 주행 알고리즘 해커톤",
-    	"url": "https://onoffmix.com/event/149949",
-    	"start": "2018-10-17 13:30:00",
-    	"end": "2018-10-17 23:59:00",
-    	"address": "[D 삼성전자서울R&D캠퍼스] 서울 서초구 우면동 D타워 1층",
-    	"tags": "python, robot",
-    	"pay_amount": "0"
+      "id": 332,
+      "title": "삼성 청소로봇 주행 알고리즘 해커톤",
+      "url": "https://onoffmix.com/event/149949",
+      "start": "2018-10-17 13:30:00",
+      "end": "2018-10-17 23:59:00",
+      "address": "[D 삼성전자서울R&D캠퍼스] 서울 서초구 우면동 D타워 1층",
+      "tags": "python, robot",
+      "pay_amount": "0"
     },
     {
-    	"id": 333,
-    	"title": "삼성 청소로봇 주행 알고리즘 해커톤",
-    	"url": "https://onoffmix.com/event/149949",
-    	"start": "2018-10-18 08:00:00",
-    	"end": "2018-10-18 23:59:00",
-    	"address": "[D 삼성전자서울R&D캠퍼스] 서울 서초구 우면동 D타워 1층",
-    	"tags": "python, robot",
-    	"pay_amount": "0"
+      "id": 333,
+      "title": "삼성 청소로봇 주행 알고리즘 해커톤",
+      "url": "https://onoffmix.com/event/149949",
+      "start": "2018-10-18 08:00:00",
+      "end": "2018-10-18 23:59:00",
+      "address": "[D 삼성전자서울R&D캠퍼스] 서울 서초구 우면동 D타워 1층",
+      "tags": "python, robot",
+      "pay_amount": "0"
     },
     {
-    	"id": 334,
-    	"title": "리액트네이티브서울 - React Lifecycle 심층 분석",
-    	"url": "https://www.meetup.com/ko-KR/react-native-seoul/events/253604990/",
-    	"start": "2018-09-19 19:00:00",
-    	"end": "2018-09-19 21:00:00",
-    	"address": "토즈강남2호점",
-    	"tags": "react",
-    	"pay_amount": "5000"
+      "id": 334,
+      "title": "리액트네이티브서울 - React Lifecycle 심층 분석",
+      "url": "https://www.meetup.com/ko-KR/react-native-seoul/events/253604990/",
+      "start": "2018-09-19 19:00:00",
+      "end": "2018-09-19 21:00:00",
+      "address": "토즈강남2호점",
+      "tags": "react",
+      "pay_amount": "5000"
     },
     {
-    	"id": 335,
-    	"title": "AWSKRUG Hands-on Lab 2018 - Data Analysis #2 (9월 29일)",
-    	"url": "https://www.meetup.com/ko-KR/awskrug/events/253585367/",
-    	"start": "2018-09-29 13:00:00",
-    	"end": "2018-09-29 16:00:00",
-    	"address": "GSTower 12F",
-    	"tags": "aws, spark, zeppelin, glue",
-    	"pay_amount": "10,000"
+      "id": 335,
+      "title": "AWSKRUG Hands-on Lab 2018 - Data Analysis #2 (9월 29일)",
+      "url": "https://www.meetup.com/ko-KR/awskrug/events/253585367/",
+      "start": "2018-09-29 13:00:00",
+      "end": "2018-09-29 16:00:00",
+      "address": "GSTower 12F",
+      "tags": "aws, spark, zeppelin, glue",
+      "pay_amount": "10,000"
     },
     {
-    	"id": 336,
-    	"title": "부산 GDG Android Tech Meetup",
-    	"url": "https://onoffmix.com/event/151146",
-    	"start": "2018-09-15 09:30:00",
-    	"end": "2018-09-15 13:00:00",
-    	"address": "부산 금정구 장전2동 403-8 제6공학관",
-    	"tags": "gdg, android",
-    	"pay_amount": "5,000"
+      "id": 336,
+      "title": "부산 GDG Android Tech Meetup",
+      "url": "https://onoffmix.com/event/151146",
+      "start": "2018-09-15 09:30:00",
+      "end": "2018-09-15 13:00:00",
+      "address": "부산 금정구 장전2동 403-8 제6공학관",
+      "tags": "gdg, android",
+      "pay_amount": "5,000"
     },
     {
-    	"id": 337,
-    	"title": "글루와 테크 미니 컨퍼런스",
-    	"url": "https://onoffmix.com/event/151430",
-    	"start": "2018-10-17 18:30:00",
-    	"end": "2018-10-17 20:30:00",
-    	"address": "[한빛미디어]서울특별시 서대문구 연희로2길 62 한빛미디어",
-    	"tags": "msa, architecture",
-    	"pay_amount": "5,000"
+      "id": 337,
+      "title": "글루와 테크 미니 컨퍼런스",
+      "url": "https://onoffmix.com/event/151430",
+      "start": "2018-10-17 18:30:00",
+      "end": "2018-10-17 20:30:00",
+      "address": "[한빛미디어]서울특별시 서대문구 연희로2길 62 한빛미디어",
+      "tags": "msa, architecture",
+      "pay_amount": "5,000"
     },
     {
-    	"id": 338,
-    	"title": "Dev Django Korea 2018",
-    	"url": "https://devdjangokr.github.io/2018",
-    	"start": "2018-10-07 09:00:00",
-    	"end": "2018-10-07 18:00:00",
-    	"address": "대한민국 서울특별시 마포구 공덕동 백범로31길 21",
-    	"tags": "python, django",
-    	"pay_amount": "-"
+      "id": 338,
+      "title": "Dev Django Korea 2018",
+      "url": "https://devdjangokr.github.io/2018",
+      "start": "2018-10-07 09:00:00",
+      "end": "2018-10-07 18:00:00",
+      "address": "대한민국 서울특별시 마포구 공덕동 백범로31길 21",
+      "tags": "python, django",
+      "pay_amount": "-"
     },
     {
-    	"id": 339,
-    	"title": "Google Cloud Summit",
-    	"url": "https://cloudplatformonline.com/2018-Summit-Korea-Home.html",
-    	"start": "2018-10-25 08:00:00",
-    	"end": "2018-10-25 18:00:00",
-    	"address": "코엑스",
-    	"tags": "google, mcp, automl, k8s, sre, spinnaker, knative, gsuite, stackdriver",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 340,
-    	"title": "How To Build A Rocket StartUp 로켓 스타트업 CTO들의 대화",
-    	"url": "https://innovationlab181004seminar.splashthat.com/",
-    	"start": "2018-10-04 19:30:00",
-    	"end": "2018-10-04 21:50:00",
-    	"address": "페이스북 이노베이션 랩",
-    	"tags": "cto",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 341,
-    	"title": "GDG DevFest Seoul 2018",
-    	"url": "https://festa.io/events/88",
-    	"start": "2018-11-10 12:00:00",
-    	"end": "2018-11-10 18:30:00",
-    	"address": "세종대학교 광개토대관 컨벤션홀",
-    	"tags": "gdg",
-    	"pay_amount": "15,000"
+      "id": 339,
+      "title": "Google Cloud Summit",
+      "url": "https://cloudplatformonline.com/2018-Summit-Korea-Home.html",
+      "start": "2018-10-25 08:00:00",
+      "end": "2018-10-25 18:00:00",
+      "address": "코엑스",
+      "tags": "google, mcp, automl, k8s, sre, spinnaker, knative, gsuite, stackdriver",
+      "pay_amount": "0"
     },
     {
-    	"id": 342,
-    	"title": "DataBreak 2018 : Hello Kaggler!",
-    	"url": "https://festa.io/events/87",
-    	"start": "2018-10-07 10:00:00",
-    	"end": "2018-10-07 18:30:00",
-    	"address": "세종대학교 광개토대관 컨벤션홀",
-    	"tags": "data, kaggle",
-    	"pay_amount": "15,000 ~ 50,000"
+      "id": 340,
+      "title": "How To Build A Rocket StartUp 로켓 스타트업 CTO들의 대화",
+      "url": "https://innovationlab181004seminar.splashthat.com/",
+      "start": "2018-10-04 19:30:00",
+      "end": "2018-10-04 21:50:00",
+      "address": "페이스북 이노베이션 랩",
+      "tags": "cto",
+      "pay_amount": "0"
     },
     {
-    	"id": 343,
-    	"title": "Golang Korea MeetUp in Seoul 9월",
-    	"url": "https://festa.io/events/84",
-    	"start": "2018-09-20 19:30:00",
-    	"end": "2018-09-20 22:30:00",
-    	"address": "kosslab",
-    	"tags": "go",
-    	"pay_amount": "10,000"
+      "id": 341,
+      "title": "GDG DevFest Seoul 2018",
+      "url": "https://festa.io/events/88",
+      "start": "2018-11-10 12:00:00",
+      "end": "2018-11-10 18:30:00",
+      "address": "세종대학교 광개토대관 컨벤션홀",
+      "tags": "gdg",
+      "pay_amount": "15,000"
     },
     {
-    	"id": 344,
-    	"title": "데이터 분석을 이용한 네트워크보안",
-    	"url": "https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action",
-    	"start": "2018-10-11 13:30:00",
-    	"end": "2018-10-11 18:00:00",
-    	"address": "서울대연구공원단지내 SK연구동",
-    	"tags": "security, network, data, snort sql injection, hacking, elk",
-    	"pay_amount": "0"
+      "id": 342,
+      "title": "DataBreak 2018 : Hello Kaggler!",
+      "url": "https://festa.io/events/87",
+      "start": "2018-10-07 10:00:00",
+      "end": "2018-10-07 18:30:00",
+      "address": "세종대학교 광개토대관 컨벤션홀",
+      "tags": "data, kaggle",
+      "pay_amount": "15,000 ~ 50,000"
     },
     {
-    	"id": 345,
-    	"title": "FEConf 2018",
-    	"url": "https://festa.io/events/90",
-    	"start": "2018-11-03 10:00:00",
-    	"end": "2018-11-03 18:00:00",
-    	"address": "롯데타워 31층 SKY 31 컨벤션 / 서울시 송파구 올림픽로 300",
-    	"tags": "js, redux, font, three.js, react",
-    	"pay_amount": "30,000"
+      "id": 343,
+      "title": "Golang Korea MeetUp in Seoul 9월",
+      "url": "https://festa.io/events/84",
+      "start": "2018-09-20 19:30:00",
+      "end": "2018-09-20 22:30:00",
+      "address": "kosslab",
+      "tags": "go",
+      "pay_amount": "10,000"
     },
     {
-    	"id": 346,
-    	"title": "Lightning Talk & Networking with GDG Campus Korea",
-    	"url": "https://festa.io/events/92",
-    	"start": "2018-10-12 19:00:00",
-    	"end": "2018-10-12 21:00:00",
-    	"address": "대한민국 서울특별시 강남구 대치2동 영동대로 417, 오토웨이타워 지하 2층",
-    	"tags": "gdg",
-    	"pay_amount": "5,000"
+      "id": 344,
+      "title": "데이터 분석을 이용한 네트워크보안",
+      "url": "https://tacademy.skplanet.com/front/tacademy/courseinfo/campus.action",
+      "start": "2018-10-11 13:30:00",
+      "end": "2018-10-11 18:00:00",
+      "address": "서울대연구공원단지내 SK연구동",
+      "tags": "security, network, data, snort sql injection, hacking, elk",
+      "pay_amount": "0"
     },
     {
-    	"id": 347,
-    	"title": "뻔뻔한 발표",
-    	"url": "https://festa.io/events/93",
-    	"start": "2018-10-17 19:00:00",
-    	"end": "2018-10-17 22:30:00",
-    	"address": "에스티유니타스 오토웨이타워 2층 대회의실 (에스컬레이터 를 이용하세요. 엘레베이터 이용 불가)",
-    	"tags": "funcion programming",
-    	"pay_amount": "5,000"
+      "id": 345,
+      "title": "FEConf 2018",
+      "url": "https://festa.io/events/90",
+      "start": "2018-11-03 10:00:00",
+      "end": "2018-11-03 18:00:00",
+      "address": "롯데타워 31층 SKY 31 컨벤션 / 서울시 송파구 올림픽로 300",
+      "tags": "js, redux, font, three.js, react",
+      "pay_amount": "30,000"
     },
     {
-    	"id": 348,
-    	"title": "AWSKRUG 데이터사이언스모임 (10월4일)",
-    	"url": "https://www.meetup.com/ko-KR/awskrug/events/255084203/",
-    	"start": "2018-10-04 18:50:00",
-    	"end": "2018-10-04 20:50:00",
-    	"address": "디캠프",
-    	"tags": "aws",
-    	"pay_amount": "5,000"
+      "id": 346,
+      "title": "Lightning Talk & Networking with GDG Campus Korea",
+      "url": "https://festa.io/events/92",
+      "start": "2018-10-12 19:00:00",
+      "end": "2018-10-12 21:00:00",
+      "address": "대한민국 서울특별시 강남구 대치2동 영동대로 417, 오토웨이타워 지하 2층",
+      "tags": "gdg",
+      "pay_amount": "5,000"
     },
     {
-    	"id": 349,
-    	"title": "AWSKRUG CLI모임 (10월 16일 화요일)",
-    	"url": "https://www.meetup.com/ko-KR/awskrug/events/255081286/",
-    	"start": "2018-10-16 19:00:00",
-    	"end": "2018-10-16 21:00:00",
-    	"address": "베스핀글로벌 요다룸",
-    	"tags": "aws, cli",
-    	"pay_amount": "5,000"
+      "id": 347,
+      "title": "뻔뻔한 발표",
+      "url": "https://festa.io/events/93",
+      "start": "2018-10-17 19:00:00",
+      "end": "2018-10-17 22:30:00",
+      "address": "에스티유니타스 오토웨이타워 2층 대회의실 (에스컬레이터 를 이용하세요. 엘레베이터 이용 불가)",
+      "tags": "funcion programming",
+      "pay_amount": "5,000"
     },
     {
-    	"id": 350,
-    	"title": "SAMSUNG OPEN SOURCE CONFERENCE 2018",
-    	"url": "https://www.soscon.net/",
-    	"start": "2018-10-17 09:00:00",
-    	"end": "2018-10-17 17:15:00",
-    	"address": "Samsung Seoul R&D Campus",
-    	"tags": "samsung, open_source",
-    	"pay_amount": "0"
+      "id": 348,
+      "title": "AWSKRUG 데이터사이언스모임 (10월4일)",
+      "url": "https://www.meetup.com/ko-KR/awskrug/events/255084203/",
+      "start": "2018-10-04 18:50:00",
+      "end": "2018-10-04 20:50:00",
+      "address": "디캠프",
+      "tags": "aws",
+      "pay_amount": "5,000"
     },
     {
-    	"id": 351,
-    	"title": "SAMSUNG OPEN SOURCE CONFERENCE 2018",
-    	"url": "https://www.soscon.net/",
-    	"start": "2018-10-18 09:00:00",
-    	"end": "2018-10-18 17:15:00",
-    	"address": "Samsung Seoul R&D Campus",
-    	"tags": "samsung, open_source",
-    	"pay_amount": "0"
+      "id": 349,
+      "title": "AWSKRUG CLI모임 (10월 16일 화요일)",
+      "url": "https://www.meetup.com/ko-KR/awskrug/events/255081286/",
+      "start": "2018-10-16 19:00:00",
+      "end": "2018-10-16 21:00:00",
+      "address": "베스핀글로벌 요다룸",
+      "tags": "aws, cli",
+      "pay_amount": "5,000"
     },
     {
-    	"id": 352,
-    	"title": "DEVIEW 2018",
-    	"url": "https://deview.kr/2018",
-    	"start": "2018-10-11 09:00:00",
-    	"end": "2018-10-11 17:00:00",
-    	"address": "COEX Grand Ballroom, Seoul",
-    	"tags": "naver",
-    	"pay_amount": "0"
+      "id": 350,
+      "title": "SAMSUNG OPEN SOURCE CONFERENCE 2018",
+      "url": "https://www.soscon.net/",
+      "start": "2018-10-17 09:00:00",
+      "end": "2018-10-17 17:15:00",
+      "address": "Samsung Seoul R&D Campus",
+      "tags": "samsung, open_source",
+      "pay_amount": "0"
     },
     {
-    	"id": 353,
-    	"title": "DEVIEW 2018",
-    	"url": "https://deview.kr/2018",
-    	"start": "2018-10-12 09:00:00",
-    	"end": "2018-10-12 17:00:00",
-    	"address": "COEX Grand Ballroom, Seoul",
-    	"tags": "naver",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 354,
-    	"title": "SpringOne Tour",
-    	"url": "http://springonetour.io/2018/seoul",
-    	"start": "2018-11-08 09:00:00",
-    	"end": "2018-11-08 18:00:00",
-    	"address": "아모리스 역삼, GS Tower, 서울특별시 강남구 역삼동 679-1",
-    	"tags": "java, spring, cloud, serverless, pivotal",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 355,
-    	"title": "Google Next Extended Seoul 2018",
-    	"url": "https://festa.io/events/104",
-    	"start": "2018-10-14 10:00:00",
-    	"end": "2018-10-14 18:00:00",
-    	"address": "삼성역 코엑스 그랜드볼룸",
-    	"tags": "google, cloud",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 356,
-    	"title": "DevOps on GitLab 두번째 Meetup",
-    	"url": "https://www.meetup.com/ko-KR/DevOps-on-GitLab-%EC%84%9C%EC%9A%B8-Meetup/events/254804480",
-    	"start": "2018-10-10 18:00:00",
-    	"end": "2018-10-10 20:30:00",
-    	"address": "구글 캠퍼스 서울 (Google Campus Seoul)",
-    	"tags": "gitlab, devops",
-    	"pay_amount": "0"
-    }, 
-    {
-    	"id": 357,
-    	"title": "OKKYCON: 2018 The Real TDD",
-    	"url": "http://www.okkycon.com/",
-    	"start": "2018-10-18 08:30:00",
-    	"end": "2018-10-18 17:50:00",
-    	"address": "삼성SDS타워 서관, B1 마젤란홀",
-    	"tags": "okky, tdd",
-    	"pay_amount": "25,000~55,000"
-    }, 
-    {
-    	"id": 358,
-    	"title": "10월 파이썬 격월 세미나 Hello Python World!",
-    	"url": "https://festa.io/events/99",
-    	"start": "2018-10-13 12:30:00",
-    	"end": "2018-10-13 17:30:00",
-    	"address": "한빛미디어 리더스홀, 대한민국 서울특별시 서대문구 신촌동 연희로2길 62",
-    	"tags": "python, data",
-    	"pay_amount": "15,000"
-    }, 
-    {
-    	"id": 359,
-    	"title": "하시코프 한국 사용자모임의 두 번째 서울 밋업",
-    	"url": "https://festa.io/events/105",
-    	"start": "2018-10-23 19:00:00",
-    	"end": "2018-10-23 21:30:00",
-    	"address": "지하철 2호선 역삼역 7번 출구 GS타워 12층 세미나실",
-    	"tags": "hashicorp",
-    	"pay_amount": "5,000"
-    }, 
-    {
-    	"id": 360,
-    	"title": "2018 Korea Mesosphere DC/OS First Conference!",
-    	"url": "https://festa.io/events/100",
-    	"start": "2018-10-26 13:00:00",
-    	"end": "2018-10-26 18:00:00",
-    	"address": "인터콘티넨탈 코엑스 호텔 다이아몬드홀",
-    	"tags": "msa, ci, cd, docker",
-    	"pay_amount": "0"
-    },  
-    {
-    	"id": 361,
-    	"title": "Ubuntu Fest 우분투와 딥러닝",
-    	"url": "https://festa.io/events/94",
-    	"start": "2018-11-10 13:00:00",
-    	"end": "2018-11-10 18:00:00",
-    	"address": "충남대학교 공과대학1호관 취봉홀",
-    	"tags": "ubuntu",
-    	"pay_amount": "0"
+      "id": 351,
+      "title": "SAMSUNG OPEN SOURCE CONFERENCE 2018",
+      "url": "https://www.soscon.net/",
+      "start": "2018-10-18 09:00:00",
+      "end": "2018-10-18 17:15:00",
+      "address": "Samsung Seoul R&D Campus",
+      "tags": "samsung, open_source",
+      "pay_amount": "0"
     },
     {
-    	"id": 362,
-    	"title": "Red Hat Forum Seoul 2018",
-    	"url": "https://www.redhat.com/ko/events/red-hat-forum-seoul-2018",
-    	"start": "2018-11-06 09:00:00",
-    	"end": "2018-11-06 17:30:00",
-    	"address": "인터컨티넨탈 서울 코엑스 하모니볼룸(B1F)",
-    	"tags": "redhat",
-    	"pay_amount": "0"
+      "id": 352,
+      "title": "DEVIEW 2018",
+      "url": "https://deview.kr/2018",
+      "start": "2018-10-11 09:00:00",
+      "end": "2018-10-11 17:00:00",
+      "address": "COEX Grand Ballroom, Seoul",
+      "tags": "naver",
+      "pay_amount": "0"
     },
     {
-    	"id": 363,
-    	"title": "Zabbix Korean Community 세미나",
-    	"url": "https://onoffmix.com/event/154542",
-    	"start": "2018-11-02 13:30:00",
-    	"end": "2018-11-02 17:30:00",
-    	"address": "[아남타워빌딩]서울특별시 강남구 테헤란로 311 7층 (공개SW 개발자 센터 대 강의장)",
-    	"tags": "redhat",
-    	"pay_amount": "0"
+      "id": 353,
+      "title": "DEVIEW 2018",
+      "url": "https://deview.kr/2018",
+      "start": "2018-10-12 09:00:00",
+      "end": "2018-10-12 17:00:00",
+      "address": "COEX Grand Ballroom, Seoul",
+      "tags": "naver",
+      "pay_amount": "0"
     },
     {
-    	"id": 364,
-    	"title": "애자일 코리아 컨퍼런스 2018",
-    	"url": "https://www.facebook.com/AgileKoreaConference",
-    	"start": "2018-11-23 09:00:00",
-    	"end": "2018-11-23 18:00:00",
-    	"address": "삼성SDS 서관 지하 1층",
-    	"tags": "agile",
-    	"pay_amount": "55,000"
+      "id": 354,
+      "title": "SpringOne Tour",
+      "url": "http://springonetour.io/2018/seoul",
+      "start": "2018-11-08 09:00:00",
+      "end": "2018-11-08 18:00:00",
+      "address": "아모리스 역삼, GS Tower, 서울특별시 강남구 역삼동 679-1",
+      "tags": "java, spring, cloud, serverless, pivotal",
+      "pay_amount": "0"
     },
     {
-    	"id": 365,
-    	"title": "Tech Meets Startup",
-    	"url": "http://tech-startup.kr",
-    	"start": "2018-11-02 09:30:00",
-    	"end": "2018-11-02 16:00:00",
-    	"address": "코엑스",
-    	"tags": "startup",
-    	"pay_amount": "0"
+      "id": 355,
+      "title": "Google Next Extended Seoul 2018",
+      "url": "https://festa.io/events/104",
+      "start": "2018-10-14 10:00:00",
+      "end": "2018-10-14 18:00:00",
+      "address": "삼성역 코엑스 그랜드볼룸",
+      "tags": "google, cloud",
+      "pay_amount": "0"
     },
     {
-    	"id": 366,
-    	"title": "지금은 Azure 시대! - Azure의 정석",
-    	"url": "https://m.onoffmix.com/event/153410",
-    	"start": "2018-10-24 09:00:00",
-    	"end": "2018-10-24 18:00:00",
-    	"address": "코엑스",
-    	"tags": "azure, django, chatbot, docker",
-    	"pay_amount": "0"
+      "id": 356,
+      "title": "DevOps on GitLab 두번째 Meetup",
+      "url": "https://www.meetup.com/ko-KR/DevOps-on-GitLab-%EC%84%9C%EC%9A%B8-Meetup/events/254804480",
+      "start": "2018-10-10 18:00:00",
+      "end": "2018-10-10 20:30:00",
+      "address": "구글 캠퍼스 서울 (Google Campus Seoul)",
+      "tags": "gitlab, devops",
+      "pay_amount": "0"
     },
     {
-    	"id": 367,
-    	"title": "지금은 Azure 시대! - Azure의 정석",
-    	"url": "https://m.onoffmix.com/event/153410",
-    	"start": "2018-10-24 09:00:00",
-    	"end": "2018-10-24 18:00:00",
-    	"address": "코엑스",
-    	"tags": "azure, django, chatbot, docker",
-    	"pay_amount": "0"
+      "id": 357,
+      "title": "OKKYCON: 2018 The Real TDD",
+      "url": "http://www.okkycon.com/",
+      "start": "2018-10-18 08:30:00",
+      "end": "2018-10-18 17:50:00",
+      "address": "삼성SDS타워 서관, B1 마젤란홀",
+      "tags": "okky, tdd",
+      "pay_amount": "25,000~55,000"
     },
     {
-    	"id": 368,
-    	"title": "Let's Swift",
-    	"url": "http://letswift.kr/2018/",
-    	"start": "2018-11-06 09:00:00",
-    	"end": "2018-11-06 18:00:00",
-    	"address": "서울특별시 강남구 테헤란로7길 22",
-    	"tags": "iOS, swift",
-    	"pay_amount": "32,000 ~ 39,000"
+      "id": 358,
+      "title": "10월 파이썬 격월 세미나 Hello Python World!",
+      "url": "https://festa.io/events/99",
+      "start": "2018-10-13 12:30:00",
+      "end": "2018-10-13 17:30:00",
+      "address": "한빛미디어 리더스홀, 대한민국 서울특별시 서대문구 신촌동 연희로2길 62",
+      "tags": "python, data",
+      "pay_amount": "15,000"
     },
     {
-    	"id": 369,
-    	"title": "Yocto Project Dev Day Korea",
-    	"url": "https://festa.io/events/117",
-    	"start": "2018-11-07 18:00:00",
-    	"end": "2018-11-07 21:00:00",
-    	"address": "서울시 강남구 테헤란로 311 아남타워빌딩(Kosslab) 7층",
-    	"tags": "yocto",
-    	"pay_amount": "0"
+      "id": 359,
+      "title": "하시코프 한국 사용자모임의 두 번째 서울 밋업",
+      "url": "https://festa.io/events/105",
+      "start": "2018-10-23 19:00:00",
+      "end": "2018-10-23 21:30:00",
+      "address": "지하철 2호선 역삼역 7번 출구 GS타워 12층 세미나실",
+      "tags": "hashicorp",
+      "pay_amount": "5,000"
     },
     {
-    	"id": 370,
-    	"title": "GDG Devfest Busan 2018",
-    	"url": "https://festa.io/events/119",
-    	"start": "2018-11-24 12:00:00",
-    	"end": "2018-11-24 18:00:00",
-    	"address": "대한민국 부산광역시 해운대구 우2동 APEC로 55",
-    	"tags": "gdg, amp, android, vr",
-    	"pay_amount": "10,000 ~ 13,000"
+      "id": 360,
+      "title": "2018 Korea Mesosphere DC/OS First Conference!",
+      "url": "https://festa.io/events/100",
+      "start": "2018-10-26 13:00:00",
+      "end": "2018-10-26 18:00:00",
+      "address": "인터콘티넨탈 코엑스 호텔 다이아몬드홀",
+      "tags": "msa, ci, cd, docker",
+      "pay_amount": "0"
     },
     {
-    	"id": 371,
-    	"title": "R User Conference in Korea 2018",
-    	"url": "https://onoffmix.com/event/153305",
-    	"start": "2018-10-26 09:00:00",
-    	"end": "2018-10-26 18:00:00",
-    	"address": "서울특별시 시민청",
-    	"tags": "r",
-    	"pay_amount": "0 ~ 33,000"
+      "id": 361,
+      "title": "Ubuntu Fest 우분투와 딥러닝",
+      "url": "https://festa.io/events/94",
+      "start": "2018-11-10 13:00:00",
+      "end": "2018-11-10 18:00:00",
+      "address": "충남대학교 공과대학1호관 취봉홀",
+      "tags": "ubuntu",
+      "pay_amount": "0"
     },
     {
-    	"id": 372,
-    	"title": "NAVER Tech Concert: Android",
-    	"url": "http://techcon.naver.com/?fbclid=IwAR2uyR1hb02ac4rCaizpKh-PkV7p0myUAm1m9xIr48rB-OHzrpjSoTeyhGo",
-    	"start": "2018-11-01 09:00:00",
-    	"end": "2018-11-01 18:00:00",
-    	"address": "정자동 네이버 그린팩토리 본사 2층 CONNECT HALL",
-    	"tags": "android, mvvm, kotlin",
-    	"pay_amount": "0"
+      "id": 362,
+      "title": "Red Hat Forum Seoul 2018",
+      "url": "https://www.redhat.com/ko/events/red-hat-forum-seoul-2018",
+      "start": "2018-11-06 09:00:00",
+      "end": "2018-11-06 17:30:00",
+      "address": "인터컨티넨탈 서울 코엑스 하모니볼룸(B1F)",
+      "tags": "redhat",
+      "pay_amount": "0"
     },
     {
-    	"id": 373,
-    	"title": "NAVER Tech Concert: Android",
-    	"url": "http://techcon.naver.com/?fbclid=IwAR2uyR1hb02ac4rCaizpKh-PkV7p0myUAm1m9xIr48rB-OHzrpjSoTeyhGo",
-    	"start": "2018-11-02 09:00:00",
-    	"end": "2018-11-02 18:00:00",
-    	"address": "정자동 네이버 그린팩토리 본사 2층 CONNECT HALL",
-    	"tags": "android, mvvm, kotlin",
-    	"pay_amount": "0"
+      "id": 363,
+      "title": "Zabbix Korean Community 세미나",
+      "url": "https://onoffmix.com/event/154542",
+      "start": "2018-11-02 13:30:00",
+      "end": "2018-11-02 17:30:00",
+      "address": "[아남타워빌딩]서울특별시 강남구 테헤란로 311 7층 (공개SW 개발자 센터 대 강의장)",
+      "tags": "redhat",
+      "pay_amount": "0"
     },
     {
-    	"id": 374,
-    	"title": "PgDay.Seoul 2018",
-    	"url": "https://onoffmix.com/event/154463?fbclid=IwAR0mwhZaEI3ncPb7n2bCsvd2vyLeyyUXCHASnWF4Xzrj1ob5tOjWeprasDM",
-    	"start": "2018-11-03 13:00:00",
-    	"end": "2018-11-03 18:00:00",
-    	"address": "KTDS 방배 사옥 2층 KTDS 아카데미",
-    	"tags": "aws, postgresql, sql",
-    	"pay_amount": "10,000"
+      "id": 364,
+      "title": "애자일 코리아 컨퍼런스 2018",
+      "url": "https://www.facebook.com/AgileKoreaConference",
+      "start": "2018-11-23 09:00:00",
+      "end": "2018-11-23 18:00:00",
+      "address": "삼성SDS 서관 지하 1층",
+      "tags": "agile",
+      "pay_amount": "55,000"
     },
     {
-    	"id": 375,
-    	"title": "TAEYO.NET과 ASP.NET Korea가 함께하는 스폐셜 기술 세미나!",
-    	"url": "https://m.onoffmix.com/event/155392?fbclid=IwAR2BwtStgeiCQR4AuR6awJ77FblxhI2zB-MhlwsH6lXA6XnHe307hFsK7VE",
-    	"start": "2018-10-27 13:30:00",
-    	"end": "2018-10-27 18:00:00",
-    	"address": "서울특별시 종로구 종로1길 50 중학오피스빌딩 에이동 11층",
-    	"tags": "ddd, cqrs, event sourcing",
-    	"pay_amount": "5,000"
+      "id": 365,
+      "title": "Tech Meets Startup",
+      "url": "http://tech-startup.kr",
+      "start": "2018-11-02 09:30:00",
+      "end": "2018-11-02 16:00:00",
+      "address": "코엑스",
+      "tags": "startup",
+      "pay_amount": "0"
     },
     {
-    	"id": 376,
-    	"title": "[TOAST FORWARD] Scouter를 이용한 성능분석",
-    	"url": "https://onoffmix.com/event/155609?fbclid=IwAR1bKBLrBVRJR6_LkLM3_UCkToItg18dDQguXKmdksqeFJo5G-2oAkzK0_Y",
-    	"start": "2018-10-25 14:00:00",
-    	"end": "2018-10-25 18:00:00",
-    	"address": "경기도 성남시 분당구 대왕판교로645번길 16 NHN엔터테인먼트 플레이뮤지엄",
-    	"tags": "java, performance, scouter",
-    	"pay_amount": "10,000"
+      "id": 366,
+      "title": "지금은 Azure 시대! - Azure의 정석",
+      "url": "https://m.onoffmix.com/event/153410",
+      "start": "2018-10-24 09:00:00",
+      "end": "2018-10-24 18:00:00",
+      "address": "코엑스",
+      "tags": "azure, django, chatbot, docker",
+      "pay_amount": "0"
     },
     {
-    	"id": 377,
-    	"title": "Flink Seoul First Meetup with data-Artisans",
-    	"url": "https://festa.io/events/125",
-    	"start": "2018-12-18 18:00:00",
-    	"end": "2018-12-18 21:00:00",
-    	"address": "스테이지나인 삼성점 1층 카페 (서울특별시 강남구 테헤란로79길 6)",
-    	"tags": "data, flink",
-    	"pay_amount": "0"
+      "id": 367,
+      "title": "지금은 Azure 시대! - Azure의 정석",
+      "url": "https://m.onoffmix.com/event/153410",
+      "start": "2018-10-24 09:00:00",
+      "end": "2018-10-24 18:00:00",
+      "address": "코엑스",
+      "tags": "azure, django, chatbot, docker",
+      "pay_amount": "0"
     },
     {
-    	"id": 378,
-    	"title": "UNIST X Naver D2SF X 멋쟁이 사자처럼 해커톤",
-    	"url": "https://festa.io/events/129",
-    	"start": "2018-11-23 14:00:00",
-    	"end": "2018-11-23 19:00:00",
-    	"address": "울산광역시 울주군 언양읍 유니스트길 50 UNIST 경동홀",
-    	"tags": "hackerton",
-    	"pay_amount": "0"
+      "id": 368,
+      "title": "Let's Swift",
+      "url": "http://letswift.kr/2018/",
+      "start": "2018-11-06 09:00:00",
+      "end": "2018-11-06 18:00:00",
+      "address": "서울특별시 강남구 테헤란로7길 22",
+      "tags": "iOS, swift",
+      "pay_amount": "32,000 ~ 39,000"
     },
     {
-    	"id": 379,
+      "id": 369,
+      "title": "Yocto Project Dev Day Korea",
+      "url": "https://festa.io/events/117",
+      "start": "2018-11-07 18:00:00",
+      "end": "2018-11-07 21:00:00",
+      "address": "서울시 강남구 테헤란로 311 아남타워빌딩(Kosslab) 7층",
+      "tags": "yocto",
+      "pay_amount": "0"
+    },
+    {
+      "id": 370,
+      "title": "GDG Devfest Busan 2018",
+      "url": "https://festa.io/events/119",
+      "start": "2018-11-24 12:00:00",
+      "end": "2018-11-24 18:00:00",
+      "address": "대한민국 부산광역시 해운대구 우2동 APEC로 55",
+      "tags": "gdg, amp, android, vr",
+      "pay_amount": "10,000 ~ 13,000"
+    },
+    {
+      "id": 371,
+      "title": "R User Conference in Korea 2018",
+      "url": "https://onoffmix.com/event/153305",
+      "start": "2018-10-26 09:00:00",
+      "end": "2018-10-26 18:00:00",
+      "address": "서울특별시 시민청",
+      "tags": "r",
+      "pay_amount": "0 ~ 33,000"
+    },
+    {
+      "id": 372,
+      "title": "NAVER Tech Concert: Android",
+      "url": "http://techcon.naver.com/?fbclid=IwAR2uyR1hb02ac4rCaizpKh-PkV7p0myUAm1m9xIr48rB-OHzrpjSoTeyhGo",
+      "start": "2018-11-01 09:00:00",
+      "end": "2018-11-01 18:00:00",
+      "address": "정자동 네이버 그린팩토리 본사 2층 CONNECT HALL",
+      "tags": "android, mvvm, kotlin",
+      "pay_amount": "0"
+    },
+    {
+      "id": 373,
+      "title": "NAVER Tech Concert: Android",
+      "url": "http://techcon.naver.com/?fbclid=IwAR2uyR1hb02ac4rCaizpKh-PkV7p0myUAm1m9xIr48rB-OHzrpjSoTeyhGo",
+      "start": "2018-11-02 09:00:00",
+      "end": "2018-11-02 18:00:00",
+      "address": "정자동 네이버 그린팩토리 본사 2층 CONNECT HALL",
+      "tags": "android, mvvm, kotlin",
+      "pay_amount": "0"
+    },
+    {
+      "id": 374,
+      "title": "PgDay.Seoul 2018",
+      "url": "https://onoffmix.com/event/154463?fbclid=IwAR0mwhZaEI3ncPb7n2bCsvd2vyLeyyUXCHASnWF4Xzrj1ob5tOjWeprasDM",
+      "start": "2018-11-03 13:00:00",
+      "end": "2018-11-03 18:00:00",
+      "address": "KTDS 방배 사옥 2층 KTDS 아카데미",
+      "tags": "aws, postgresql, sql",
+      "pay_amount": "10,000"
+    },
+    {
+      "id": 375,
+      "title": "TAEYO.NET과 ASP.NET Korea가 함께하는 스폐셜 기술 세미나!",
+      "url": "https://m.onoffmix.com/event/155392?fbclid=IwAR2BwtStgeiCQR4AuR6awJ77FblxhI2zB-MhlwsH6lXA6XnHe307hFsK7VE",
+      "start": "2018-10-27 13:30:00",
+      "end": "2018-10-27 18:00:00",
+      "address": "서울특별시 종로구 종로1길 50 중학오피스빌딩 에이동 11층",
+      "tags": "ddd, cqrs, event sourcing",
+      "pay_amount": "5,000"
+    },
+    {
+      "id": 376,
+      "title": "[TOAST FORWARD] Scouter를 이용한 성능분석",
+      "url": "https://onoffmix.com/event/155609?fbclid=IwAR1bKBLrBVRJR6_LkLM3_UCkToItg18dDQguXKmdksqeFJo5G-2oAkzK0_Y",
+      "start": "2018-10-25 14:00:00",
+      "end": "2018-10-25 18:00:00",
+      "address": "경기도 성남시 분당구 대왕판교로645번길 16 NHN엔터테인먼트 플레이뮤지엄",
+      "tags": "java, performance, scouter",
+      "pay_amount": "10,000"
+    },
+    {
+      "id": 377,
+      "title": "Flink Seoul First Meetup with data-Artisans",
+      "url": "https://festa.io/events/125",
+      "start": "2018-12-18 18:00:00",
+      "end": "2018-12-18 21:00:00",
+      "address": "스테이지나인 삼성점 1층 카페 (서울특별시 강남구 테헤란로79길 6)",
+      "tags": "data, flink",
+      "pay_amount": "0"
+    },
+    {
+      "id": 378,
       "title": "UNIST X Naver D2SF X 멋쟁이 사자처럼 해커톤",
-    	"url": "https://festa.io/events/129",
-    	"start": "2018-11-24 09:00:00",
-    	"end": "2018-11-24 19:00:00",
-    	"address": "울산광역시 울주군 언양읍 유니스트길 50 UNIST 경동홀",
-    	"tags": "hackerton",
-    	"pay_amount": "0"
+      "url": "https://festa.io/events/129",
+      "start": "2018-11-23 14:00:00",
+      "end": "2018-11-23 19:00:00",
+      "address": "울산광역시 울주군 언양읍 유니스트길 50 UNIST 경동홀",
+      "tags": "hackerton",
+      "pay_amount": "0"
     },
     {
-    	"id": 380,
+      "id": 379,
+      "title": "UNIST X Naver D2SF X 멋쟁이 사자처럼 해커톤",
+      "url": "https://festa.io/events/129",
+      "start": "2018-11-24 09:00:00",
+      "end": "2018-11-24 19:00:00",
+      "address": "울산광역시 울주군 언양읍 유니스트길 50 UNIST 경동홀",
+      "tags": "hackerton",
+      "pay_amount": "0"
+    },
+    {
+      "id": 380,
       "title": "AWS DevDay 2018",
-    	"url": "https://festa.io/events/120",
-    	"start": "2018-11-06 12:00:00",
-    	"end": "2018-11-06 18:00:00",
-    	"address": "삼성동 코엑스 그랜드볼륨",
-    	"tags": "aws, serverless, blockchain, gpu, nosql, k8s",
-    	"pay_amount": "0"
+      "url": "https://festa.io/events/120",
+      "start": "2018-11-06 12:00:00",
+      "end": "2018-11-06 18:00:00",
+      "address": "삼성동 코엑스 그랜드볼륨",
+      "tags": "aws, serverless, blockchain, gpu, nosql, k8s",
+      "pay_amount": "0"
     },
     {
-    	"id": 381,
+      "id": 381,
       "title": "GDG DevFest Suwon",
-    	"url": "https://festa.io/events/123",
-    	"start": "2018-11-13 18:30:00",
-    	"end": "2018-11-13 22:30:00",
-    	"address": "광교 경기문화창조허브",
-    	"tags": "gdg",
-    	"pay_amount": "4,900 ~ 9,900"
+      "url": "https://festa.io/events/123",
+      "start": "2018-11-13 18:30:00",
+      "end": "2018-11-13 22:30:00",
+      "address": "광교 경기문화창조허브",
+      "tags": "gdg",
+      "pay_amount": "4,900 ~ 9,900"
     },
     {
-    	"id": 382,
+      "id": 382,
       "title": "LINE + LINK - DEV 2018",
-    	"url": "https://linelinkdev2018.bloter.net/",
-    	"start": "2018-11-08 09:00:00",
-    	"end": "2018-11-08 20:00:00",
-    	"address": "코엑스 컨퍼런스룸 401호",
-    	"tags": "line, blockchain",
-    	"pay_amount": "30,000"
+      "url": "https://linelinkdev2018.bloter.net/",
+      "start": "2018-11-08 09:00:00",
+      "end": "2018-11-08 20:00:00",
+      "address": "코엑스 컨퍼런스룸 401호",
+      "tags": "line, blockchain",
+      "pay_amount": "30,000"
     },
     {
-    	"id": 383,
+      "id": 383,
       "title": "[안드로이드 컨퍼런스]우리는 안드로이드 개발자입니다",
-    	"url": "https://linelinkdev2018.bloter.net/",
-    	"start": "2018-11-25 13:00:00",
-    	"end": "2018-11-25 18:40:00",
-    	"address": "마루180",
-    	"tags": "android, kotlin, aac",
-    	"pay_amount": "29,000"
+      "url": "https://linelinkdev2018.bloter.net/",
+      "start": "2018-11-25 13:00:00",
+      "end": "2018-11-25 18:40:00",
+      "address": "마루180",
+      "tags": "android, kotlin, aac",
+      "pay_amount": "29,000"
     },
     {
-    	"id": 384,
+      "id": 384,
       "title": "머신러닝 첫 단추",
-    	"url": "https://innovationlab181113class.splashthat.com/?fbclid=IwAR0JqK6fQRZJjwfdnPiAho1YWRizGz6mLQiHySY9Xb9WZmzQHz2h9KfnPWQ",
-    	"start": "2018-11-13 14:00:00",
-    	"end": "2018-11-13 17:00:00",
-    	"address": "페이스북 이노베이션 랩",
-    	"tags": "data, ml, numpy, pandas",
-    	"pay_amount": "0"
+      "url": "https://innovationlab181113class.splashthat.com/?fbclid=IwAR0JqK6fQRZJjwfdnPiAho1YWRizGz6mLQiHySY9Xb9WZmzQHz2h9KfnPWQ",
+      "start": "2018-11-13 14:00:00",
+      "end": "2018-11-13 17:00:00",
+      "address": "페이스북 이노베이션 랩",
+      "tags": "data, ml, numpy, pandas",
+      "pay_amount": "0"
     },
     {
-    	"id": 385,
+      "id": 385,
       "title": "원티드와 함께하는 개발자 커리어 터치",
-    	"url": "https://innovationlab181114seminar.splashthat.com/?fbclid=IwAR0cagLe1Yb34Jmy01vikNLuGKOxmAKYXkwR6QscM8rDk13XR6AoejiAu2U",
-    	"start": "2018-11-14 14:00:00",
-    	"end": "2018-11-14 17:00:00",
-    	"address": "페이스북 이노베이션 랩",
-    	"tags": "developer, career",
-    	"pay_amount": "0"
+      "url": "https://innovationlab181114seminar.splashthat.com/?fbclid=IwAR0cagLe1Yb34Jmy01vikNLuGKOxmAKYXkwR6QscM8rDk13XR6AoejiAu2U",
+      "start": "2018-11-14 14:00:00",
+      "end": "2018-11-14 17:00:00",
+      "address": "페이스북 이노베이션 랩",
+      "tags": "developer, career",
+      "pay_amount": "0"
     },
     {
-    	"id": 386,
+      "id": 386,
       "title": "DevFest Pangyo 2018 : AI FOR EVERYONE",
-    	"url": "https://festa.io/events/136",
-    	"start": "2018-11-23 19:00:00",
-    	"end": "2018-11-23 22:00:00",
-    	"address": "판교 테크노밸리 (자세한 장소는 추후 업데이트됩니다.)",
-    	"tags": "ai, ml",
-    	"pay_amount": "10,000 ~ 30,000"
+      "url": "https://festa.io/events/136",
+      "start": "2018-11-23 19:00:00",
+      "end": "2018-11-23 22:00:00",
+      "address": "판교 테크노밸리 (자세한 장소는 추후 업데이트됩니다.)",
+      "tags": "ai, ml",
+      "pay_amount": "10,000 ~ 30,000"
     },
     {
       "id": 387,
@@ -3678,7 +3678,7 @@
       "address": "마루180",
       "tags": "django, python",
       "pay_amount": "5,000 ~ 20,000"
-    }, 
+    },
     {
       "id": 390,
       "title": "코스모체인 컨퍼런스",
@@ -3698,11 +3698,16 @@
       "address": "선릉역 아남타워 7층 소프트웨어 마에스트로 센터 7층",
       "tags": "ai, go, aws, horn",
       "pay_amount": "0"
+    },
+    {
+      "id": 392,
+      "title": "제1회 달랩 기술 세미나",
+      "url": "https://pg.mycampus.io/?idx=107",
+      "start": "2019-01-31 19:30:00",
+      "end": "2019-01-31 21:30:00",
+      "address": "마이캠퍼스 7층",
+      "tags": "rails, vue.js",
+      "pay_amount": "10,000"
     }
-              
-          
-       
-          
-             
   ]
 }
